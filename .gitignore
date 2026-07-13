@@ -1,0 +1,27 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Node Modules (if you add Node later)
+node_modules/
+
+# Docker
+*.tar
+
+# Temporary Files
+*.tmp
+
+# macOS
+.AppleDouble
+
+# Windows
+desktop.ini
