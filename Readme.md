@@ -163,7 +163,7 @@ The Jenkins pipeline will automate the following tasks:
 
 ## 📸 Screenshots
 
-The following screenshots are added in the screenshit folder:
+The following screenshots are added in the screenshsts folder:
 
 * Homepage
 * Docker Build
@@ -206,7 +206,7 @@ This project demonstrates practical experience with:
 
 **Oluwafemi Moses Olutayo**
 
-Aspiring DevOps Engineer passionate about cloud computing, automation, containerization, and CI/CD.
+DevOps Engineer passionate about cloud computing, automation, containerization, and CI/CD.
 
 ---
 
