@@ -96,7 +96,7 @@ Live Website
 ## 🐳 Build the Docker Image
 
 ```bash
-docker build -t devopslanding:v1 .
+docker build -t devopslanding:portfolio .
 ```
 
 ---
@@ -104,7 +104,7 @@ docker build -t devopslanding:v1 .
 ## ▶️ Run the Docker Container
 
 ```bash
-docker run -d -p 8080:80 --name devopslanding devopslanding:v1
+docker run -d -p 8080:80 --name devopslanding devopslanding:portfolio
 ```
 
 ---
