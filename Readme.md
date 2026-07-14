@@ -163,7 +163,7 @@ The Jenkins pipeline will automate the following tasks:
 
 ## 📸 Screenshots
 
-The following screenshots will be added after completing the project:
+The following screenshots are added in the screenshit folder:
 
 * Homepage
 * Docker Build
